@@ -18,3 +18,5 @@ It provides full CRUD functionality (Create, Read, Update, Delete) with a graphi
 Frontend (GUI): Python Tkinter, ttk  
 Database: PostgreSQL (via psycopg2)  
 Data Handling: Pandas (CSV export)  
+
+
