@@ -4,6 +4,7 @@ An application for managing student records, built with Python(Tkinter) and Post
 It provides full CRUD functionality (Create, Read, Update, Delete) with a graphical interface and CSV export support.
 
 **Features**
+
 1 Create Table – Initialize the students table.  
 2 Add Student – Insert new records (name, address, age, phone).
 3 View Students – Display all records in a Treeview table.  
@@ -13,6 +14,7 @@ It provides full CRUD functionality (Create, Read, Update, Delete) with a graphi
 7 Error Handling – Friendly error messages with messagebox.
 
 **Tech Stack**
+
 Frontend (GUI): Python Tkinter, ttk  
 Database: PostgreSQL (via psycopg2)  
 Data Handling: Pandas (CSV export)  
